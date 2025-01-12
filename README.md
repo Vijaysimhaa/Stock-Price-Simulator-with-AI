@@ -86,7 +86,9 @@ The AI in this project predicts **future stock prices** using powerful machine l
 - **Real-Time Stock Data**: The app uses **Alpha Vantage** or **Yahoo Finance APIs** to fetch real-time stock prices.
 - **Historical Data**: Historical stock prices are used to train machine learning models, which generate the AI predictions.
 
-
+## **Live Testing** ⚠️
+ ```bash
+https://avaldharvijaysimhaa.shinyapps.io/Stock_Price_Simulator/
 
 ## **Contributing** 🤝
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these steps:
