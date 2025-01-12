@@ -88,7 +88,7 @@ The AI in this project predicts **future stock prices** using powerful machine l
 
 ## **Live Testing** ⚠️
 
-https://avaldharvijaysimhaa.shinyapps.io/Stock_Price_Simulator/
+Link : https://avaldharvijaysimhaa.shinyapps.io/Stock_Price_Simulator/
 
 ## **Contributing** 🤝
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these steps:
