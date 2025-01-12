@@ -87,7 +87,7 @@ The AI in this project predicts **future stock prices** using powerful machine l
 - **Historical Data**: Historical stock prices are used to train machine learning models, which generate the AI predictions.
 
 ## **Live Testing** ⚠️
- ```bash
+
 https://avaldharvijaysimhaa.shinyapps.io/Stock_Price_Simulator/
 
 ## **Contributing** 🤝
