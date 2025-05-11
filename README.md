@@ -1,6 +1,6 @@
+<p align="center">
 <img src="https://github.com/user-attachments/assets/21c7409c-4d4d-4fc8-be49-955870f066fe" alt="Stock Price Simulator Logo" width="200"/>
-
-# **Stock Price Simulator with AI** 📈🤖
+</p>
 
 ## **Overview**
 The **Stock Price Simulator with AI** is a dynamic, interactive **Shiny web application** that allows users to simulate and predict stock prices using **machine learning algorithms**. This tool is designed to help you:
