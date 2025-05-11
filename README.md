@@ -1,3 +1,5 @@
+<img src="https://github.com/user-attachments/assets/21c7409c-4d4d-4fc8-be49-955870f066fe" alt="Stock Price Simulator Logo" width="200"/>
+
 # **Stock Price Simulator with AI** 📈🤖
 
 ## **Overview**
